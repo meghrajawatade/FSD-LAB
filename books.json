@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Atomic Habits Updated",
+    "author": "James Clear",
+    "year": 2019,
+    "createdAt": "2026-04-12T12:29:16.383Z",
+    "updatedAt": "2026-04-12T12:48:44.749Z"
+  },
+  {
+    "id": 2,
+    "title": "Demo Book Updated",
+    "author": "Demo Author",
+    "year": 2027,
+    "createdAt": "2026-04-12T12:37:38.165Z",
+    "updatedAt": "2026-04-12T12:37:38.178Z"
+  },
+  {
+    "id": 3,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "year": 2018,
+    "createdAt": "2026-04-12T12:46:52.724Z"
+  },
+  {
+    "id": 4,
+    "title": "The Monk Who Sold his Ferrari",
+    "author": "Robin Sharma",
+    "year": 2018,
+    "createdAt": "2026-04-12T12:47:39.512Z"
+  },
+  {
+    "id": 5,
+    "title": "NCERT",
+    "author": "india",
+    "year": 2019,
+    "createdAt": "2026-04-12T12:50:00.926Z"
+  }
+]
