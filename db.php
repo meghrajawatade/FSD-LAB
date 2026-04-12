@@ -16,6 +16,7 @@ $port = (int) (getenv('DB_PORT') ?: 3306);
 // 2) MAMP default
 // 3) A sample app user you can create yourself
 $credentialPairs = [
+    ['root', 'Maze@816'],
     ['root', 'Root@12345!'],
     ['root', ''],
     ['root', 'root'],
